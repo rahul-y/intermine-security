@@ -16,7 +16,7 @@ security:
       userAuthorizationUri: http://localhost:8081/auth/oauth/authorize
 
     resource:
-      userInfoUri: http://localhost:8081/auth/rest/test
+      userInfoUri: http://localhost:8081/auth/rest/test/principal
 
 spring:
   thymeleaf:
