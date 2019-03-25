@@ -17,3 +17,7 @@ security:
 
     resource:
       userInfoUri: http://localhost:8081/auth/rest/test
+
+spring:
+  thymeleaf:
+    cache: false
